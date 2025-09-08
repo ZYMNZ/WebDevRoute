@@ -1,0 +1,25 @@
+/* Write your code here: */
+/*grouping*/
+h1, h2{
+    color: blueviolet;
+}
+/* the first child in the first level*/
+.box > p {
+    color: firebrick;
+}
+/*ALL(any) li in all the levels*/
+.list li /*.box li*/{
+    color: cornflowerblue;
+}
+/*
+Chaining
+note: when chaining there's NO SPACES and always the 'element' (e.g. h1,div) comes [1st], then the rest (like classes or ids).  Example: h1.header#headOne
+*/
+
+li.done{
+    color: seagreen;
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}

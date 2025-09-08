@@ -1,0 +1,50 @@
+1. https://www.submarinecablemap.com/
+
+^The Submarine Cable Map is an online tool displaying the worldwide network of undersea communication cables, offering details on routes, landing points, and key operators. It highlights the essential role these cables play in global telecommunications. 
+
+2. https://www.diffchecker.com/
+
+^ Diffchecker is a tool for comparing text, commonly used for code or document comparisons. It highlights differences like additions and deletions, aiding collaboration and version control.
+
+3. https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
+^ interact with RGB colors
+
+4. https://colorhunt.co/palettes/
+
+^ unique colors to choose from 
+
+5. appbrewery.github.io/css-positioning/
+
+^ positioning in css (static, relative, absolute, fixed) Demo
+
+6. https://diana-adrianne.com/purecss-lace/
+
+^ a css artist (creates oil paintings with JUST HTML AND CSS 🤯)
+
+6a. https://pattle.github.io/simpsons-in-css/
+
+^simpsons
+
+6b. http://lascarid.es/fussyflags/ 
+
+^ flags
+
+
+7. https://appbrewery.github.io/css-display/
+
+^ css display(inline, block, inline-block) demo 
+
+8. https://tastybasics.nl/
+
+^ example of a responsive website
+
+9. CSS Puns (memes)
+
+10. https://appbrewery.github.io/flex-layout/
+
+^ flex css style demo
+
+11. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+^ CSS-TRICKS, guide to FLEXBOX

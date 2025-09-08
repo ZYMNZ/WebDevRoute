@@ -1,0 +1,26 @@
+/* Don't change the existing CSS. */
+
+/*1st priority*/
+#outer-box{
+  background-color: purple;
+}
+
+/*2nd priority*/
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+.newChange{
+  background-color: orange;
+}
+
+.white-text{
+  color: white;
+}
+
+/*3rd priority*/
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
